@@ -1,0 +1,4 @@
+Credits:
+- RenPy template "KOMIC" by One Level Studio (https://onelevelstudio.itch.io/komic)
+- Free font "Rubik" by Hubert and Fischer, Meir Sadan, Cyreal, Daniel Grumer, Omaima Dajani (https://fonts.google.com/specimen/Rubik)
+- Free BGM "Fun BGM" by Syncopika (https://opengameart.org/content/fun-bgm)

@@ -1,0 +1,28 @@
+Learning RenPy:
+- https://www.renpy.org/doc/html/quickstart.html
+- https://feniksdev.com/getting-started-with-renpy/
+
+KOMIC RenPy code template has folders structure rearranged as follows:
+- RPY files related to system moved under "/game/rpy/"
+- Extra features (chat system, cinematic mode, etc) moved under "/game/plugins/"
+
+You only need to care about 2 files to start writing your visual novel:
+- /game/characters.rpy:   where you define the characters
+- /game/script.rpy:       where you write the story
+
+In /game/characters.rpy:
+- Normal dialogue (using ADV system) and chat dialogue (using NVL system) are 2 different types,
+  so if a character has both normal dialogue and be able to chat, you need to define twice
+- You can check the file /game/characters.rpy for examples
+
+In /game/script.rpy:
+- You can delete all the example codes to start writing your own story
+- Example codes:
+  + Demo standard mode: very simple if you already learn RenPy basic
+  + Demo cinematic mode: almost the same as standard mode, with additional ShowCineHalf and HideCineHalf
+  + Demo chat mode: a bit more setup for chat name (ChatSystem_ChatName) and chat background (ChatSystem_ChatBGIM),
+                    the example code we provided demonstrates how to show and hide the phone UI properly
+
+If you're not sure about anything while using this asset pack, feel free to leave a comment on the project page:
+https://onelevelstudio.itch.io/komic
+We will try our best to respond quickly in our ability.
