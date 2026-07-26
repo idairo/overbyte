@@ -2,3 +2,15 @@ Credits:
 - RenPy template "KOMIC" by One Level Studio (https://onelevelstudio.itch.io/komic)
 - Free font "Rubik" by Hubert and Fischer, Meir Sadan, Cyreal, Daniel Grumer, Omaima Dajani (https://fonts.google.com/specimen/Rubik)
 - Free BGM "Fun BGM" by Syncopika (https://opengameart.org/content/fun-bgm)
+
+BGM:
+
+Title Screen Music by Bensound
+License code: AITZZYJEN8A05CMR
+Artist: : Theatre Of Delays
+
+
+Background:
+Single Bedroom by Spiral Atlas
+Classroom by House of Imagi
+Clinic by Gutari Nyanko (Neeka)
